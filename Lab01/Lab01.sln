@@ -1,6 +1,5 @@
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
 Project("{5F570625-D202-CBA8-9E39-56254C67859F}") = "Lab01", "Assembly-CSharp.csproj", "{0FA4CF10-5B58-0F76-9835-3A3B8EC14D12}"
 EndProject
 Project("{5F570625-D202-CBA8-9E39-56254C67859F}") = "Lab01", "Assembly-CSharp-Editor-firstpass.csproj", "{D58699FD-486D-F87B-681A-A1063BC18252}"
@@ -19,9 +18,6 @@ Global
 		{D58699FD-486D-F87B-681A-A1063BC18252}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D58699FD-486D-F87B-681A-A1063BC18252}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D58699FD-486D-F87B-681A-A1063BC18252}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
